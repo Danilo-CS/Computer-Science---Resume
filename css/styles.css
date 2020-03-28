@@ -48,6 +48,7 @@ p{
   background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
+  
 }
 
 .middle-container{
@@ -83,13 +84,13 @@ p{
 }
 .bottom-cloud{
   position: absolute;
-  left: 250px;
+  left: 100px;
   top:300px;
 }
 .top-cloud{
   position: absolute;
   right: 300px;
-  top:40px;
+  top:500px;
 
 }
 .personal-img{
